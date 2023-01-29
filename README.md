@@ -112,7 +112,7 @@ class FirestoreController extends GetxController {
 
   // Firestoreの値を更新する.
   Future<void> postUpdate(dynamic document, String postC) async {
-    await dofRef.doc(document.id).set({
+    await dofRef.doc(document.id).update({
       'post': postC,
       'updatedAt': Timestamp.fromDate(now),
     });
