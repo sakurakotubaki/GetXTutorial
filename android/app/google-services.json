@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "672152282505",
+    "project_id": "blog-905e5",
+    "storage_bucket": "blog-905e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672152282505:android:398b9d1f54796b3d5aed58",
+        "android_client_info": {
+          "package_name": "com.example.getx_naraun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672152282505-b8te45dj4hlc63c444tfnlu6mioko52o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnd5s8fwixaW5eJwopnlmGfR9SBVzpM7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672152282505-b8te45dj4hlc63c444tfnlu6mioko52o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "672152282505-1ci67kj4pl4v5s47l47jttpdqjpfs8pl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.calendarApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
